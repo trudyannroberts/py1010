@@ -5,7 +5,8 @@ Dette repoet inneholder alle oppgavene og småprosjektene jeg har jobbet med i f
 Prosjektet fokuserer på grunnleggende Python-programmering og dekker temaer som:
 
 - Variabler og datatyper  
-- If/else  
+- If/else
+- Dictionaries
 - Løkker og iterasjoner  
 - Funksjoner  
 - Enkel filbehandling med Pandas  
